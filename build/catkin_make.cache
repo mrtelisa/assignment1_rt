@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/root/Desktop/assignment1_rt/devel -DCMAKE_INSTALL_PREFIX=/root/Desktop/assignment1_rt/install -G Unix Makefiles
